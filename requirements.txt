@@ -1,7 +1,7 @@
 click
 cryptography
 Flask
-geoip2
+geoip2==3.0.0
 jsonschema
 PyJWT
 pyotp
