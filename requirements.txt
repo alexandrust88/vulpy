@@ -1,4 +1,4 @@
-click
+click==7.1.1
 cryptography
 Flask
 geoip2
