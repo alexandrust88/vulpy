@@ -1,5 +1,5 @@
 click
-cryptography
+cryptography==3.2.1
 Flask
 geoip2
 jsonschema
