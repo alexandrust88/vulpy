@@ -6,5 +6,5 @@ jsonschema
 PyJWT
 pyotp
 qrcode
-requests
+requests==2.27.0
 
