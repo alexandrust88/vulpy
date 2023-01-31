@@ -5,6 +5,6 @@ geoip2
 jsonschema
 PyJWT
 pyotp
-qrcode
+qrcode==7.4
 requests
 
