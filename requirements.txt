@@ -1,6 +1,6 @@
 click
 cryptography
-Flask
+Flask==2.2.4
 geoip2
 jsonschema
 PyJWT
