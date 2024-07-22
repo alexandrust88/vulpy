@@ -4,7 +4,7 @@ Flask
 geoip2
 jsonschema
 PyJWT
-pyotp
+pyotp==2.6.0
 qrcode
 requests
 
