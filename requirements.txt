@@ -2,7 +2,7 @@ click
 cryptography
 Flask
 geoip2
-jsonschema
+jsonschema==3.2.0
 PyJWT
 pyotp
 qrcode
